@@ -28,7 +28,9 @@
                 <li style="display: inline;"></li><a href="#about">ABOUT ME</a>&nbsp;
                 <li style="display: inline;"></li><a href="#project">PROJECTS</a>&nbsp;
                 <li style="display: inline;"></li><a href="#contact">CONTACT</a>
-                <li style="display: inline;"></li><a href="login.php">LOGIN</a>
+                <li style="display: inline;"></li><a href="login.php">LOGIN
+
+                </a>
             </ul>
         </div>
     </div>
@@ -50,16 +52,16 @@
         <div style="text-align: left; padding-top: 50px; margin-left: 20%; margin-right: 20%;">
             <img src="images/dawit.jpg" width="400PX" height="auto" style="padding: 25px; float: left;">
             <h1 style="color: rgb(120, 61, 13); font-size: 50px;"><?php echo htmlspecialchars($user['full_name']); ?></h1>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Age: <?php echo htmlspecialchars($user['age']); ?></p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Occupation: <?php echo htmlspecialchars($user['occupation']); ?></p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Department: <?php echo htmlspecialchars($user['department']); ?></p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Year: <?php echo htmlspecialchars($user['year']); ?>th</p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Institution: <?php echo htmlspecialchars($user['institution']); ?></p>
+            <p style="color: rgb(114, 0, 0); font-size: 40px;">Age: <?php echo htmlspecialchars($user['age']); ?></p>
+            <p style="color: rgb(114, 0, 0); font-size: 40px;">Occupation: <?php echo htmlspecialchars($user['occupation']); ?></p>
+            <p style="color: rgb(114, 0, 0); font-size: 40px;">Department: <?php echo htmlspecialchars($user['department']); ?></p>
+            <p style="color: rgb(114, 0, 0); font-size: 40px;">Year: <?php echo htmlspecialchars($user['year']); ?>th</p>
+            <p style="color: rgb(114, 0, 0); font-size: 40px;">Institution: <?php echo htmlspecialchars($user['institution']); ?></p>
         </div>
 
 
     
-        <div id="about" style="padding-top: 25PX;  text-align: center;margin-left: 20%;margin-right: 20%;">
+        <div id="about" style="padding-top: 150PX;  text-align: center;margin-left: 20%;margin-right: 20%;">
             <hr width="400px">
             <h2 style="color: rgb(128, 49, 0);font-size: 40px;">ABOUT ME</h2>
                 <hr width="400px">
