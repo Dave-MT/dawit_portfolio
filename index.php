@@ -58,24 +58,7 @@
         </div>
 
 
-        <!-- <div style="text-align: left; padding-top: 50px;margin-left: 20%;margin-right: 20%;">
-            
-            
-            
-            
-            <img src="images/dawit.jpg" width="400PX" height="auto" style="padding: 25px;float: left;">
-            <h1 style="color: rgb(120, 61, 13);font-size: 50px;">Dawit Tamirat</h1>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Age : 21</p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Occupation : Student</p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Departemnt: Computer Science </p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">year:  3rd</p>
-            <p style="color: rgb(114, 0, 0); font-size: 30px;">Institution: St. Mary University College</p>
-
-
-
-
-            
-        </div> -->
+    
         <div id="about" style="padding-top: 25PX;  text-align: center;margin-left: 20%;margin-right: 20%;">
             <hr width="400px">
             <h2 style="color: rgb(128, 49, 0);font-size: 40px;">ABOUT ME</h2>
